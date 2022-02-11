@@ -12,7 +12,7 @@ The aim of the work was to design and construct a device that balances a ball pl
 
 
 # Complete project
-![image](https://user-images.githubusercontent.com/92230378/153621938-9321b5dd-2961-4540-9844-87dafb603b94.png$)
+![image](https://user-images.githubusercontent.com/92230378/153621938-9321b5dd-2961-4540-9844-87dafb603b94.png)
 
 
 # Code description
